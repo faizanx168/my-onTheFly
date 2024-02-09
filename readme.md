@@ -1,2 +1,1 @@
-
-![avatar](https://github.com/faizanx168/my-onTheFly/assets/105330878/c4f886f6-2852-43f7-8c23-48c0638da772)
+![demo](https://github.com/faizanx168/my-onTheFly/assets/105330878/7f6c01b4-60c8-4e62-99c5-b9f3736f06ed)
